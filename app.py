@@ -1,6 +1,6 @@
 # This program adds two numbers
 # Input from the user
-num1 = float(input("Enter first number: "))
+num1 = float(input("Enter FIRST number: "))
 num2 = float(input("Enter second number: "))
 # Add two numbers
 sum = num1 + num2
